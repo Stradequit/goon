@@ -17,6 +17,7 @@ body {
 }
 
 h1 {
+    font-family: 'Metal Mania';
     font-weight: normal;
     font-size: 4rem;
     margin-top: 5rem;
@@ -30,6 +31,7 @@ h1 {
 }
 
 .big-text {
+    font-family: 'Metal Mania';
     font-weight: bold;
     font-size: 6rem;
     line-height: 1;
