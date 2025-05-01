@@ -6,8 +6,9 @@
 
 body {
     background-image: url('./canvas.png');
-    background-size: cover;
-    background-position:center center;
+    background-size: contain; /* Ensures the entire image is visible */
+    background-repeat: no-repeat; /* Prevents tiling of the image */
+    background-position: center center; /* Centers the image */
     display: flex;
     flex-direction: column;
     align-items: center;
