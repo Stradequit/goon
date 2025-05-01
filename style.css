@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url('./image.png');
+    background-image: url('./canvas.png');
     background-size: cover;
     background-position:center center;
     display: flex;
